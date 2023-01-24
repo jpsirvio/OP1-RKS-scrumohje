@@ -9,7 +9,7 @@ Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne.
 
 ## Sprintin katselmointi
 
-Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä.
+Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä. Tarvittaesa myös työjonoa muokataan. SPrintin katselmuis kestää maksimissaan neljä tuntia.
 
 ## Task Boardin päivittäminen
 
