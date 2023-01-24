@@ -1,4 +1,7 @@
 # Scrum-ohje Reaktiiviset Kevätsaappaat -tiimille
+Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001 -opintojaksolla toimivan Reaktiiviset Kevätsaappaat -tiimin ohje scrum-menettelyn käyttöön. Tiimi toteuttaa scrummia, koska se tukee parhaiten tiimin yhteistyöhön perustuvaa sovelluskehitystyöskentelyä. Tiimin scrum-käytännöt ovat sovellettuja puhdasoppisen scrumin sijaan, koska työskentely ei ole kokopäiväistä, vaan hajaantunutta tiimin jäsenten erilaisten aikataulujen vuoksi.
+
+Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset.
 
 ## Dailyt/weeklyt
 
