@@ -20,6 +20,10 @@ Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta 
 
 ## Priorisointi
 
-## Keskittyminen
+## Arvot
+Scrum -menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
+Näitä arvoja noudattamalla Scrum-tiimin jäsenet sitoutuvat tavoitteiden saavuttamiseen ja toistensa tukemiseen. Tiimin jäsenet keskittyvät ensisijaisesti sprintin työstämiseen jotta tavoitteet saadaan saavutettua. 
+Scrum tiimi kunnioittaa toistensa kykyjä ja ymmärtävät työnsä haasteet. Tiimin jäsenillä on myös rohkeutta ottaa haasteet vastaan ja tehdä parhaaksi katsomiaan valintoja sprintin edistämiseksi. 
 
 ## Reflektointi
+Ketterä Scrum-tiimi reflektoi tekemisiään ennen seuraavaa sprinttiä. Tiimi reflektoi aiemman sprintin onnistumisia ja haasteita. Onnistunut 'retro' tuottaa konkreettisen toimen tai mallin joka otetaan käyttöön jo seuraavassa sprintissä.
