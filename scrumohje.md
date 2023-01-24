@@ -13,6 +13,9 @@ Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sp
 
 ## Task Boardin päivittäminen
 
+SPrintin kehitysjonon tehtävien etenemistä seurataan Scrum-taulun avulla. Taululla eritellään ei-aloitetut, aloitetut ja valmiit kehitystehtävät. Tehtävien tilannetta päivitetään aina päiväpalavereissa.
+
+## Kommunikointi
 ## Tiimin viestintä
 Tiimi viestii keskenään tarpeen mukaan ja avoimesti ongelmistaan. Pääsääntöisesti tiimi viestii omassa Teams-ryhmässään. Lisäksi tiimi tapaa viikoittain weekly-kokouksissa. Viestinnän tavoitteena on pitää koko ryhmä tietoisena siitä, mitä kehittämisessä tapahtuu ja nostaa esiin ongelmat yhteisesti ratkaistavaksi. 
 
