@@ -13,7 +13,7 @@ Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sp
 
 ## Task Boardin päivittäminen
 
-SPrintin kehitysjonon tehtävien etenemistä seurataan Scrum-taulun avulla. Taululla eritellään ei-aloitetut, aloitetut ja valmiit kehitystehtävät. Tehtävien tilannetta päivitetään aina päiväpalavereissa.
+Sprintin kehitysjonon tehtävien etenemistä seurataan Scrum-taulun avulla. Taululla eritellään ei-aloitetut, aloitetut ja valmiit kehitystehtävät, sen mukaan missä vaiheessa tehtävä. Tehtävien tilannetta päivitetään aina päiväpalavereissa. 
 
 ## Kommunikointi
 ## Tiimin viestintä
