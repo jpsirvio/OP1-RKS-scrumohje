@@ -3,17 +3,23 @@ Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001 -opintojaksolla toimivan Reaktiiv
 
 Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset.
 
+![Scrum prosessi](https://www.tuleap.org/wp-content/uploads/2020/06/Scrum-process-schema-EN-small.png "Scrum prosessi")
+
 ## Dailyt/weeklyt
 
-Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. 
+Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne ja eteneminen sprintin tavoitteissa. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. 
 
 ## Sprintin katselmointi
 
-Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä. Tarvittaesa myös työjonoa muokataan. Sprintin katselmus kestää maksimissaan neljä tuntia.
+Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä. Tarvittaessa myös työjonoa muokataan. Sprintin katselmus kestää maksimissaan neljä tuntia.
 
-## Task Boardin päivittäminen
+## Tuotteen kehitysjono ja taskboard
 
-Sprintin kehitysjonon tehtävien etenemistä seurataan Scrum-taulun avulla. Taululla eritellään ei-aloitetut, aloitetut ja valmiit kehitystehtävät, sen mukaan missä vaiheessa tehtävä. Tehtävien tilannetta päivitetään aina päiväpalavereissa. 
+Tuotteen kehitysjono on lista asioista, joita tarvitaan tuotteen kehittämiseksi.  Katselmoinnissa sprintille valitaan tehtäviä projektin kehitysjonosta, jotka pilkotaan usein pienempiin osiin niin, että tehtävät ehditään varmasti sprintin aikana toteuttamaan.
+
+Sprintin kehitysjonon etenemistä seurataan Scrum-taulun avulla, joka on olennainen osa Scrum-menetelmää. Taululla eritellään ei-aloitetut, aloitetut ja valmiit kehitystehtävät, sen mukaan missä vaiheessa tehtävä sillä hetkellä on. Tehtävien tilannetta päivitetään päiväpalavereissa. 
+
+<img src="https://vs-uploads-production.nyc3.cdn.digitaloceanspaces.com/uploads/blog/imageks7LsuLAmx.png" width="450" alt="Scrum-taulu"/>
 
 ## Kommunikointi
 ## Tiimin viestintä
@@ -34,6 +40,8 @@ Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta 
 Scrum -menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
 Näitä arvoja noudattamalla Scrum-tiimin jäsenet sitoutuvat tavoitteiden saavuttamiseen ja toistensa tukemiseen. Tiimin jäsenet keskittyvät ensisijaisesti sprintin työstämiseen jotta tavoitteet saadaan saavutettua. 
 Scrum tiimi kunnioittaa toistensa kykyjä ja ymmärtävät työnsä haasteet. Tiimin jäsenillä on myös rohkeutta ottaa haasteet vastaan ja tehdä parhaaksi katsomiaan valintoja sprintin edistämiseksi. 
+
+<img src="https://www.invensislearning.com/blog/wp-content/uploads/2020/11/Applying-5-Scrum-Values-in-our-Day-to-Day-work-1068x552-1.jpg" width="350" alt="Scrum arvot"/>
 
 ## Reflektointi
 Ketterä Scrum-tiimi reflektoi tekemisiään ennen seuraavaa sprinttiä. Tiimi reflektoi aiemman sprintin onnistumisia ja haasteita. Onnistunut 'retro' tuottaa konkreettisen toimen tai mallin joka otetaan käyttöön jo seuraavassa sprintissä.
