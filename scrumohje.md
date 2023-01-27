@@ -1,13 +1,13 @@
 # Scrum-ohje Reaktiiviset Kevätsaappaat -tiimille
 Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001 -opintojaksolla toimivan Reaktiiviset Kevätsaappaat -tiimin ohje scrum-menettelyn käyttöön. Tiimi toteuttaa scrummia, koska se tukee parhaiten tiimin yhteistyöhön perustuvaa sovelluskehitystyöskentelyä. Tiimin scrum-käytännöt ovat sovellettuja puhdasoppisen scrumin sijaan, koska työskentely ei ole kokopäiväistä, vaan hajaantunutta tiimin jäsenten erilaisten aikataulujen vuoksi.
 
-Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset.
+Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset. Samassa yhteydessä pidetään seuraavan sprintin suunnittelu eli sprint planning.
 
 ![Scrum prosessi](https://www.tuleap.org/wp-content/uploads/2020/06/Scrum-process-schema-EN-small.png "Scrum prosessi")
 
 ## Dailyt/weeklyt
 
-Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne ja eteneminen sprintin tavoitteissa. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. 
+Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne ja eteneminen sprintin tavoitteissa. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. Tapaamisessa jokainen tiimiläinen käy läpi edellisen päivän/viikon ja tulevan päivän/viikon toimenpiteet. Lisäksi mahdolliset esteet ja ongelmat, joita tiimiläinen ei itse voi hoitaa, eskaloidaan scrum masterille.
 
 ## Sprintin katselmointi
 
