@@ -21,7 +21,6 @@ Sprintin kehitysjonon etenemistä seurataan Scrum-taulun avulla, joka on olennai
 
 <img src="https://vs-uploads-production.nyc3.cdn.digitaloceanspaces.com/uploads/blog/imageks7LsuLAmx.png" width="450" alt="Scrum-taulu"/>
 
-## Kommunikointi
 ## Tiimin viestintä
 Tiimi viestii keskenään tarpeen mukaan ja avoimesti ongelmistaan. Pääsääntöisesti tiimi viestii omassa Teams-ryhmässään. Lisäksi tiimi tapaa viikoittain weekly-kokouksissa. Viestinnän tavoitteena on pitää koko ryhmä tietoisena siitä, mitä kehittämisessä tapahtuu ja nostaa esiin ongelmat yhteisesti ratkaistavaksi. 
 
@@ -33,8 +32,6 @@ Tiimin scrum masterina toimii...
 Scrum master fasilitoi tiimin scrum-toimintaa, mm. valvoen, että weeklyt, reviewit ja retrot pidetään sovitusti. Scrum master toimii tiimin kokouksien puheenjohtajana. Scrum master auttaa tiimiä toimimaan yhteistyössä ja mallin mukaisesti joustaen tarpeen mukaan. 
 
 Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta ja ilmoittaa hänelle kaikki ongelmat ja työskentelyn esteet. Scrum master pyrkii poistamaan esteet ja mahdollistaman tiimin tehokkaan työskentelyn.
-
-## Priorisointi
 
 ## Arvot
 Scrum -menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
