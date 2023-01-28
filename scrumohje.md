@@ -36,7 +36,7 @@ Scrum master fasilitoi tiimin scrum-toimintaa, mm. valvoen, että weeklyt, revie
 
 Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta ja ilmoittaa hänelle kaikki ongelmat ja työskentelyn esteet. Scrum master pyrkii poistamaan esteet ja mahdollistaman tiimin tehokkaan työskentelyn.
 
-<img src="https://k21academy.com/wp-content/uploads/2021/10/ScrumMaster-Feature-1-e1633768964611-1024x724.png" width="400">
+<img src="https://k21academy.com/wp-content/uploads/2021/10/ScrumMaster-Feature-1-e1633768964611-1024x724.png" width="500" alt="Scrum-Master">
 
 
 ## Arvot
@@ -57,3 +57,5 @@ Tehtävät priorisoidaan tärkeysjärjestykseen, joka tarkoittaa usein sitä, et
 Scrumissa kehitystiimin vuorovaikutus on erityisen tärkeää. Tiimin jäsenet auttavat toisiaan ja kaikki ovat yhdessä vastuussa sprintille määriteltyjen tehtävien valmistumisesta. Tämä johtaa nopeampiin tuloksiin ja parempaan koodin laatuun.
 
 Scrum-menetelmällä tehdyillä projekteilla on usein parempi asiakas- ja käyttäjätyytyväisyys, mikä johtuu usein siitä, että asiakkaat saavat käyttökelpoiset osat tuotteesta nopeammin käyttöönsä ja voivat tarvittaessa antaa palautetta tuotteesta. Alkuperäisiin määrittelyihin voidaan näin tehdä helpommin muutoksia ja turhalta työltä vältytään.
+
+<img src="https://img.freepik.com/free-vector/scrum-method-concept-illustration_114360-13019.jpg?w=1800&t=st=1674914496~exp=1674915096~hmac=c3a86243df2f1eb6cde7f793f72632a779f234139532517bf29f7765de7746ab" width="100%" alt="Scrum-general-image">
