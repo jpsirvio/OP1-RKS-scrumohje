@@ -5,6 +5,9 @@ Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi p
 
 ![Scrum prosessi](https://www.tuleap.org/wp-content/uploads/2020/06/Scrum-process-schema-EN-small.png "Scrum prosessi")
 
+Oheisessa Goforen laatimassa artikkelissa kuvataan puhdasoppinen Scrum-prosessi.
+[Gofore: Scrum-prosessi pähkinänkuoressa](https://gofore.com/scrum-pahkinankuoressa/)
+
 ## Dailyt/weeklyt
 
 Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne ja eteneminen sprintin tavoitteissa. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. Tapaamisessa jokainen tiimiläinen käy läpi edellisen päivän/viikon ja tulevan päivän/viikon toimenpiteet. Lisäksi mahdolliset esteet ja ongelmat, joita tiimiläinen ei itse voi hoitaa, eskaloidaan scrum masterille.
