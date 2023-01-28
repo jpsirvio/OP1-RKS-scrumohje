@@ -36,7 +36,8 @@ Scrum master fasilitoi tiimin scrum-toimintaa, mm. valvoen, että weeklyt, revie
 
 Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta ja ilmoittaa hänelle kaikki ongelmat ja työskentelyn esteet. Scrum master pyrkii poistamaan esteet ja mahdollistaman tiimin tehokkaan työskentelyn.
 
-![Scrum-Master](https://k21academy.com/wp-content/uploads/2021/10/ScrumMaster-Feature-1-e1633768964611-1024x724.png)
+<img src="https://k21academy.com/wp-content/uploads/2021/10/ScrumMaster-Feature-1-e1633768964611-1024x724.png" width="400">
+
 
 ## Arvot
 Scrum -menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
