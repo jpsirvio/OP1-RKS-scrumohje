@@ -1,7 +1,7 @@
 # Scrum-ohje Reaktiiviset Kevätsaappaat -tiimille
-Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001 -opintojaksolla toimivan Reaktiiviset Kevätsaappaat -tiimin ohje scrum-menettelyn käyttöön. Tiimi toteuttaa scrummia, koska se tukee parhaiten tiimin yhteistyöhön perustuvaa sovelluskehitystyöskentelyä. Tiimin scrum-käytännöt ovat sovellettuja puhdasoppisen scrumin sijaan, koska työskentely ei ole kokopäiväistä, vaan hajaantunutta tiimin jäsenten erilaisten aikataulujen vuoksi.
+Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001-opintojaksolla toimivan Reaktiiviset Kevätsaappaat-tiimin ohje scrum-menettelyn käyttöön. Tiimi toteuttaa scrummia, koska se tukee parhaiten tiimin yhteistyöhön perustuvaa sovelluskehitystyöskentelyä. Tiimin scrum-käytännöt ovat sovellettuja puhdasoppisen scrumin sijaan, koska työskentely ei ole kokopäiväistä, vaan hajaantunutta tiimin jäsenten erilaisten aikataulujen vuoksi.
 
-Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset. Samassa yhteydessä pidetään seuraavan sprintin suunnittelu eli sprint planning.
+Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymäiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi-kokoukset. Samassa yhteydessä pidetään seuraavan sprintin suunnittelu eli sprint planning.
 
 Lisäksi tiimi on päättänyt, että scrum master vaihtelee viikkojen aikana, jotta kaikki pääsevät kokeilemaan kyseistä roolia. Ensimmäiseksi scrum masteriksi valitaan henkilö, jolla on eniten kokemusta.
 
@@ -42,7 +42,7 @@ Tiimiläisten vastuulla on pitää scrum master ajan tasalla tiimin toiminnasta 
 
 
 ## Arvot
-Scrum -menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
+Scrum-menetelmän viisi arvoa ovat Sitoutuminen, keskittyminen, avoimuus, kunnioitus ja rohkeus.
 Näitä arvoja noudattamalla Scrum-tiimin jäsenet sitoutuvat tavoitteiden saavuttamiseen ja toistensa tukemiseen. Tiimin jäsenet keskittyvät ensisijaisesti sprintin työstämiseen jotta tavoitteet saadaan saavutettua. 
 Scrum tiimi kunnioittaa toistensa kykyjä ja ymmärtävät työnsä haasteet. Tiimin jäsenillä on myös rohkeutta ottaa haasteet vastaan ja tehdä parhaaksi katsomiaan valintoja sprintin edistämiseksi. 
 
@@ -52,7 +52,7 @@ Scrum tiimi kunnioittaa toistensa kykyjä ja ymmärtävät työnsä haasteet. Ti
 Ketterä Scrum-tiimi reflektoi tekemisiään ennen seuraavaa sprinttiä. Tiimi reflektoi aiemman sprintin onnistumisia ja haasteita. Onnistunut 'retro' tuottaa konkreettisen toimen tai mallin joka otetaan käyttöön jo seuraavassa sprintissä.
 
 ## Miksi Scrum toimii?
-Scrum-menetelmän avulla kehitystiimi voi työskennellä samanaikaisesti ja aloittaa koodauksen vaikka kaikki projektin määrittelyt eivät ole vielä täysin valmiina. Työskentely on joustavaa ja asiat muuttuvat projektin aikana.Ainoastaan aika ja kustannukset pysyvöt vakioina. Testausta tehdään myös jatkuvasti projektin aikana, eikä vain lopuksi. 
+Scrum-menetelmän avulla kehitystiimi voi työskennellä samanaikaisesti ja aloittaa koodauksen vaikka kaikki projektin määrittelyt eivät ole vielä täysin valmiina. Työskentely on joustavaa ja asiat muuttuvat projektin aikana. Ainoastaan aika ja kustannukset pysyvöt vakioina. Testausta tehdään myös jatkuvasti projektin aikana, eikä vain lopuksi. 
 
 Tehtävät priorisoidaan tärkeysjärjestykseen, joka tarkoittaa usein sitä, että tuote voidaan julkaista usein jo aikaisemmin kuin perinteisissä projekteissä, kun käyttökelpoiset priorisoidut osat on saatu valmiiksi.
 
