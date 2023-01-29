@@ -32,7 +32,6 @@ Tiimi viestii keskenään tarpeen mukaan ja avoimesti ongelmistaan. Pääsäänt
 Tarpeen mukaan tiimi viestii myös tuoteomistajan kanssa Teams-kanavan välityksellä.
 
 ## Scrum Master
-Tiimin scrum masterina toimii...
 
 Scrum master fasilitoi tiimin scrum-toimintaa, mm. valvoen, että weeklyt, reviewit ja retrot pidetään sovitusti. Scrum master toimii tiimin kokouksien puheenjohtajana. Scrum master auttaa tiimiä toimimaan yhteistyössä ja mallin mukaisesti joustaen tarpeen mukaan. 
 
