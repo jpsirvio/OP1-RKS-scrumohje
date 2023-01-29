@@ -3,6 +3,8 @@ Tämä on Ohjelmistoprojekti 1 SOF005AS3A-3001 -opintojaksolla toimivan Reaktiiv
 
 Tiimi kokoontuu viikoittain opintojakson luennoille. Tämän yhteydessä tiimi pyrkii pitämään weekly-kokouksen ja käymään läpi dailymaiset rituaalit. Samassa yhteydessä tiimi pitää sprint review ja retrospektiivi -kokoukset. Samassa yhteydessä pidetään seuraavan sprintin suunnittelu eli sprint planning.
 
+Lisäksi tiimi on päättänyt, että scrum master vaihtelee viikkojen aikana, jotta kaikki pääsevät kokeilemaan kyseistä roolia. Ensimmäiseksi scrum masteriksi valitaan henkilö, jolla on eniten kokemusta.
+
 ![Scrum prosessi](https://www.tuleap.org/wp-content/uploads/2020/06/Scrum-process-schema-EN-small.png "Scrum prosessi")
 
 Oheisessa Goforen laatimassa artikkelissa kuvataan puhdasoppinen Scrum-prosessi.
