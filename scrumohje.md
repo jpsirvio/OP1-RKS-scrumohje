@@ -20,6 +20,8 @@ Kuten edellä mainittiin, tiimi ei kokoonnu päivittäin dailyyn vaan viikoittai
 
 Sprintin lopuksi tiimi pitää sprint review:n, jonka tarkoituksena on tarkastella mitä sprintin aikana saatiin aikaiseksi ja mitkä asiat jäivät tekemättä. Tämä tehdään demoamalla tuote siinä tilassa, kuin sen sprintin päätyttyä on. Normaalisti katselmuksessa tarkastellaan myös budjetissa ja aikatulussa pysymistä. Tarvittaessa työjonoon lisätään tai sieltä poistetaan tehtäviä tai niiden prioriteettejä muutetaan. Katselmuksen perusteella tiimi päättää seuraavasta työvaiheesta. Sprintin katselmuksen olisi hyvä olla melko vapaamuotoinen.
 
+<img src ="tiimi.jpg" width="400" alt="Kokous">
+
 ## Tuotteen kehitysjono ja taskboard
 
 Tuotteen kehitysjono on lista asioista, joita tarvitaan tuotteen kehittämiseksi.  Katselmoinnissa sprintille valitaan tehtäviä projektin kehitysjonosta, jotka pilkotaan usein pienempiin osiin niin, että tehtävät ehditään varmasti sprintin aikana toteuttamaan.
