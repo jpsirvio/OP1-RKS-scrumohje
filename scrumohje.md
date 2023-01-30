@@ -18,7 +18,7 @@ Kuten edellä mainittiin, tiimi ei kokoonnu päivittäin dailyyn vaan viikoittai
 
 ## Sprintin katselmointi
 
-Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä. Tarvittaessa myös työjonoa muokataan. Sprintin katselmus kestää maksimissaan neljä tuntia.
+Sprintin lopuksi tiimi pitää sprint review:n, jonka tarkoituksena on tarkastella mitä sprintin aikana saatiin aikaiseksi ja mitkä asiat jäivät tekemättä. Tarkastellaan myös budjetissa ja aikatulussa pysymistä. Tarvittaessa työjonoon tehdään muutoksia. Katselmuksen perusteella tiimi päättää seuraavista työvaiheista. Sprintin katselmus kestää maksimissaan neljä tuntia ja se olisi hyvä pitää vapaamuotoisena.
 
 ## Tuotteen kehitysjono ja taskboard
 
