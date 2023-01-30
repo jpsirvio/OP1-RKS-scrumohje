@@ -14,6 +14,8 @@ Oheisessa Goforen laatimassa artikkelissa kuvataan puhdasoppinen Scrum-prosessi.
 
 Daily on lyhyt päivittäinen tapaaminen, jossa käydään läpi tiimin tilanne ja eteneminen sprintin tavoitteissa. Weekly vastaavasti voidaan järjestää kerran viikossa. Tapaamisessa käydään läpi projektin etenemistä ja tehdään suunnitelma seuraavasta vaiheesta. Tapaamisessa jokainen tiimiläinen käy läpi edellisen päivän/viikon ja tulevan päivän/viikon toimenpiteet. Lisäksi mahdolliset esteet ja ongelmat, joita tiimiläinen ei itse voi hoitaa, eskaloidaan scrum masterille.
 
+Kuten edellä mainittiin, tiimi ei kokoonnu päivittäin dailyyn vaan viikoittain weeklyyn, jossa käydään läpi scrum masterin ohjauksessa samat rituaalit kuin tavallisessa daily-kokouksessa.
+
 ## Sprintin katselmointi
 
 Sprintin lopuksi pidetään sprint review, jonka tarkoituksena on tarkastella sprintin tuloksia ja sen perusteella päättää seuraavan sprintin sisällöstä. Tarvittaessa myös työjonoa muokataan. Sprintin katselmus kestää maksimissaan neljä tuntia.
@@ -48,7 +50,7 @@ Scrum tiimi kunnioittaa toistensa kykyjä ja ymmärtävät työnsä haasteet. Ti
 <img src="https://www.invensislearning.com/blog/wp-content/uploads/2020/11/Applying-5-Scrum-Values-in-our-Day-to-Day-work-1068x552-1.jpg" width="400" alt="Scrum arvot"/>
 
 ## Reflektointi
-Ketterä Scrum-tiimi reflektoi tekemisiään ennen seuraavaa sprinttiä. Tiimi reflektoi aiemman sprintin onnistumisia ja haasteita. Onnistunut 'retro' tuottaa konkreettisen toimen tai mallin joka otetaan käyttöön jo seuraavassa sprintissä.
+Ketterä Scrum-tiimi reflektoi tekemisiään ennen seuraavaa sprinttiä. Tiimi reflektoi aiemman sprintin onnistumisia ja haasteita sprintin päätteeksi retrospektiivi-kokouksessa. Onnistunut 'retro' tuottaa konkreettisen toimen tai mallin joka otetaan käyttöön jo seuraavassa sprintissä.
 
 ## Miksi Scrum toimii?
 Scrum-menetelmän avulla kehitystiimi voi työskennellä samanaikaisesti ja aloittaa koodauksen vaikka kaikki projektin määrittelyt eivät ole vielä täysin valmiina. Työskentely on joustavaa ja asiat muuttuvat projektin aikana. Ainoastaan aika ja kustannukset pysyvöt vakioina. Testausta tehdään myös jatkuvasti projektin aikana, eikä vain lopuksi. 
